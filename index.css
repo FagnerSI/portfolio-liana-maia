@@ -901,6 +901,10 @@
   .contact-card .cta-row {
       justify-content: center;
       margin-top: 32px;
+    display: flex;
+        gap: 14px;
+        flex-wrap: wrap;
+        align-items: center;
   }
 
   .contact-card .btn.solid {
